@@ -1,17 +1,8 @@
----
-fullname: Raphael Odini
-role: Développeur
-github: raphodn
-avatar: null
-link: https://raphodn.github.io
-missions:
-  - start: 2020-01-08
-    end: 2020-09-30
-    status: independent
-    employer: octo
-startups:
-  - aidantsconnect
-previously: null
----
-
-Développeur full-stack, j'aime les communs, apprendre (& faire), le vélo et les pingouins.
+LS0tCmZ1bGxuYW1lOiBSYXBoYWVsIE9kaW5pCnJvbGU6IETDqXZlbG9wcGV1
+cgpnaXRodWI6IHJhcGhvZG4KYXZhdGFyOiBudWxsCmxpbms6IGh0dHBzOi8v
+cmFwaG9kbi5naXRodWIuaW8KbWlzc2lvbnM6CiAgLSBzdGFydDogMjAyMC0w
+MS0wOAogICAgZW5kOiAyMDIwLTA5LTMwCiAgICBzdGF0dXM6IGluZGVwZW5k
+ZW50CiAgICBlbXBsb3llcjogb2N0bwpzdGFydHVwczoKICAtIGFpZGFudHNj
+b25uZWN0CnByZXZpb3VzbHk6IG51bGwKLS0tCgpEw6l2ZWxvcHBldXIgZnVs
+bC1zdGFjaywgaidhaW1lIGxlcyBjb21tdW5zLCBhcHByZW5kcmUgKCYgZmFp
+cmUpLCBsZSB2w6lsbyBldCBsZXMgcGluZ291aW5zLgo=
