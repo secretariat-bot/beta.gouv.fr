@@ -4,14 +4,13 @@ role: Ingénieur des données
 domaine: Développement
 github: colinmaudry
 missions:
-  - start: 2021-09-01
-    end: 2021-11-30
+  - start: 2023-01-04
+    end: 2023-03-31
     status: independent
     employer: Octo
 startups:
-  - trackdechets
+  - data inclusion
 badges:
-  - segur
+  - 
 ---
-
-Certains jongles avec des couteaux aiguisés, moi je jongle avec les données des déchets dangereux. J'organise aussi des bals folks à Rennes et ses alentours.
+Façonneur de schémas, plombier des données de l'insertion au GIP de l'inclusion.
