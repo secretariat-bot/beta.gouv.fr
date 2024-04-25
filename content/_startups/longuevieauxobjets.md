@@ -9,17 +9,18 @@ incubator: ademe
 link: https://longuevieauxobjets.ademe.fr/
 repository: https://github.com/incubateur-ademe/quefairedemesobjets
 contact: longuevieauxobjets@ademe.fr
-stats: false
+stats: true
+stats_url: https://longuevieauxobjets.ademe.fr/stats/
 budget_url: https://docs.google.com/spreadsheets/d/13cZIcAs25h21gqagXODms7YwDEC98RL5EcJjk595t2M/edit#gid=0
 dashlord_url: https://incubateur-ademe.github.io/dashlord/url/longuevieauxobjets-ademe-fr/
 analyse_risques: true
+analyse_risques_url: https://github.com/incubateur-ademe/quefairedemesobjets/blob/main/SECURITY.md
 accessibility_status: non conforme
 redirect_from:
   - /startups/quefairedemesobjets
 usertypes:
   - particulier
   - entreprise
-analyse_risques_url: https://github.com/incubateur-ademe/quefairedemesobjets/blob/main/SECURITY.md
 events:
   - name: committee
     date: 2023-04-06
